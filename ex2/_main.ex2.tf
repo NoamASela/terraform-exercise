@@ -19,4 +19,5 @@ resource "aws_instance" "web" {
     Name      = "web-1"
     Excercise = "ex2"
   }
+  
 }
